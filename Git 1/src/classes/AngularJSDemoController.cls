@@ -12,7 +12,7 @@ public with sharing class AngularJSDemoController{
         
         //Wrapper  Class Controller
         Accountwrap() {
-        	System.debug('>>******@@');
+        	System.debug('>>******@@123');
             Phone = '';
         }
         
