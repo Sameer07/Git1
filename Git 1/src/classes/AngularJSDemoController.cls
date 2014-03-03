@@ -12,6 +12,7 @@ public with sharing class AngularJSDemoController{
         
         //Wrapper  Class Controller
         Accountwrap() {
+        	System.debug('>>');
             Phone = '';
         }
         
